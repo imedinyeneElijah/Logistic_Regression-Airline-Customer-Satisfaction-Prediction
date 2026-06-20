@@ -141,8 +141,4 @@ Re-run with `Kernel > Restart & Run All`.
 | 7. Performance Summary | Full metrics table |
 | 8. Business Recommendations | Prioritised actions + model limitations + threshold analysis |
 
-- Improve seat comfort.
-- Focus on customer experience programs.
 
-## Author
-Imedinyene Udoh
